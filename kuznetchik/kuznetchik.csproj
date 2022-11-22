@@ -43,6 +43,7 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="ReferenceConstants.cs" />
         <Compile Include="Converter.cs" />
         <Compile Include="Kuznetchik.cs" />
         <Compile Include="Program.cs" />
