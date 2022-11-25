@@ -145,7 +145,7 @@ public class Kuznetchik
     }
 
     //Генерация раундовых ключей
-    private byte[][] GenerateKeys(byte[] K)
+    public byte[][] GenerateKeys(byte[] K)
     {
         byte[][] result = new byte[10][];
         for (int i = 0; i < 10; i++)

@@ -48,6 +48,7 @@
         <Compile Include="Kuznetchik.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="Tests\KeysTest.cs" />
         <Compile Include="Tests\KuznetchikTest.cs" />
         <Compile Include="Tests\TestLFunc.cs" />
         <Compile Include="Tests\TestRFunc.cs" />
